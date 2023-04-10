@@ -1,0 +1,8 @@
+
+.pic{
+position:fixed;
+top:100px;
+left:500px;
+background-color: blue;
+display: block;
+}
